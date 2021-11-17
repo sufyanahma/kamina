@@ -71,7 +71,7 @@ c3 = "\033[1;91m"
 
 logo = """   
                                                                                                                                                                                             _                     _                                                                                                                                                                                                                               \033[1;91mAwo A Talaqyano Mala Tol Ghwaha Raolegy😂                                                                                                                         
-\033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈✙◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
+
 \033[1;33m(~)\033[1;97m  Author : SuFyaN For Wakif \033[1;96m[ \033[0;92m♥️👊👉💔😢 \033[1;97m]
 \033[1;96m(~)\033[1;97m  Facebook: www.facebook.com/profile.php?id=100069973613718
 \033[1;96m(~)\033[1;97m  Address : Peshawar Shabqaddar Khwajawas Pakistan😆                          
